@@ -23,3 +23,107 @@ author={Marco Antonio Moreira de Carvalho},
 howPublished={\url{https://github.com/MarcoCarvalhoUFOP/ProgramacaoCompetitiva.git}}, 
 year={2023},
 note={Version 1.0; Creative Commons BY-NC-SA 4.0.}}
+
+# Sumário do conteúdo dos arquivos
+
+Sessão 00
+
+Introdução ao Treinamento
+
+Sessão 01
+
+Code::Blocks; 
+Programas Híbridos C/C++; 
+Formas Padrão de Entrada e Saída (I/O); 
+Como Submeter no SPOJ.
+
+Sessão 02
+
+Vetores; 
+Ordenação; 
+Representação de Tipos; 
+Problemas Ad Hoc.
+
+Sessão 03
+
+EOF; 
+Matrizes; 
+Um Problema de Lógica.
+
+Sessão 04
+
+Caracteres; 
+Representação; 
+Biblioteca cctype; 
+.
+ 
+Sessão 05
+
+Strings; 
+Estrutura; 
+Leitura; 
+Impressão; 
+Processamento. 
+
+Sessão 06
+
+Visão Geral da Standard Templates Library; 
+Contêineres; 
+Iteradores; 
+Algoritmos; 
+Vector.
+
+Sessão 07
+
+URI Online Judge; 
+list; 
+deque. 
+
+Sessão 08
+
+Árvores de Busca Binária; 
+set; 
+multiset.
+
+Sessão 09
+
+map; 
+multimap.
+
+Sessão 10
+
+Pilha; 
+Fila; 
+Fila de Prioridades; 
+Adaptadores de Contêineres; 
+stack, queue e priority_queue.
+
+Sessão 11
+
+Grafos; 
+Motivação; 
+Terminologia.
+
+
+Sessão 12
+
+Representação Computacional; 
+Busca Genérica; 
+Busca em Largura (BFS).
+
+Sessão 13
+
+Busca em Profundidade (DFS).
+
+Sessão 14
+
+Árvores; 
+Árvores Binárias de Busca; 
+Tipos de Remoção; 
+Percursos.
+
+Sessão 15
+
+Árvores Geradoras; 
+Árvores Geradoras Mínimas; 
+Algoritmo de Prim.
