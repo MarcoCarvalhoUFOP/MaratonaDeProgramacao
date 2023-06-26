@@ -1,4 +1,4 @@
-# MaratonaDeProgramacao
+# ProgramacaoCompetitiva
 
 Notas de aula sobre introdução à Programação Competitiva
 
